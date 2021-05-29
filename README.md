@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently pursuing Masters in Computer Application.
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me ...
 
 <!---
 jain-santosh/jain-santosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
